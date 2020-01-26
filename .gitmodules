@@ -1,0 +1,6 @@
+[submodule "tern_for_vim"]
+	path = tern_for_vim
+	url = ./plugs/tern_for_vim
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = ./plugs/vim-polyglot

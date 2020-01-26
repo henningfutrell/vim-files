@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/henning/Desktop/robot_arm/src'
+let g:netrw_dirhist_0='/Users/henning/Desktop/robot_arm'
+let g:netrw_dirhist_9='/Users/henning'
+let g:netrw_dirhist_8='/Users'
+let g:netrw_dirhist_7='/Users/henning'
+let g:netrw_dirhist_6='/Users/henning/Workbench'
+let g:netrw_dirhist_5='/Users/henning/Workbench/rdp-frontend'
+let g:netrw_dirhist_4='/Users/henning/.vim'
+let g:netrw_dirhist_3='/Users/henning'
+let g:netrw_dirhist_2='/Users'
